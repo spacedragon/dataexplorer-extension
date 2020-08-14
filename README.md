@@ -1,6 +1,6 @@
-# Chrome Extension (built with TypeScript + React)
+#  Data Explorer Chrome Extension  
 
-> This project is a extension to enhance viewer experience of [dataexploer](https://dataexplorer.azure.com/).
+> This project is a extension to enhance viewer experience of [Data Explorer](https://dataexplorer.azure.com/).
 
 ## Building
 
